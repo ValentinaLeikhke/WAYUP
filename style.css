@@ -1,0 +1,33 @@
+h1,
+span {
+  color: red;
+}
+
+.new {
+  background: blue;
+  width: 100px;
+  height: 74px;
+  color: #fff;
+  margin-bottom: 100px;
+}
+
+h2 {
+  border: 5px solid green;
+  background: green;
+  color: #fff;
+}
+
+.block {
+  box-sizing: border-box;
+  height: 100px;
+  padding: 30px 40px;
+}
+
+.form {
+  margin-left: 100px;
+}
+
+.list li {
+  border: 1px solid black;
+  font-size: 30px;
+}
