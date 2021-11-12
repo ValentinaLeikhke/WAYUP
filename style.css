@@ -2,11 +2,15 @@ h1,
 span {
   color: red;
 }
+.logo {
+    width: 150px;
+}
 
 .new {
   background: blue;
   width: 100px;
-  height: 74px;
+  /* height: 74px; высота не нужна,
+  здесь высота пропорциональна тексту*/
   color: #fff;
   margin-bottom: 100px;
 }
@@ -19,7 +23,8 @@ h2 {
 
 .block {
   box-sizing: border-box;
-  height: 100px;
+  /* height: 100px; не нужно 
+  задавать высоту, достаточно паддинг*/
   padding: 30px 40px;
 }
 
